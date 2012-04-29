@@ -1,6 +1,12 @@
 Flask-XUACompatible
 ===================
 
+|build status|_
+
+.. |build status| image:: https://secure.travis-ci.org/jpvanhal/flask-xuacompatible.png?branch=master
+   :alt: Build Status
+.. _build status: http://travis-ci.org/jpvanhal/flask-xuacompatible
+
 This is a simple Flask extension that sets X-UA-Compatible HTTP header for all
 responses.
 
